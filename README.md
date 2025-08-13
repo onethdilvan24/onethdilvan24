@@ -107,8 +107,8 @@ const oneth = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OnethDikshimbura&repo=your-awesome-project&theme=tokyonight)](https://github.com/OnethDikshimbura/your-awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OnethDikshimbura&repo=another-cool-project&theme=tokyonight)](https://github.com/OnethDikshimbura/another-cool-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OnethDikshimbura&repo=your-awesome-project&theme=tokyonight)](https://github.com/onethdilvan24/people-hub-pro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OnethDikshimbura&repo=another-cool-project&theme=tokyonight)](https://github.com/onethdilvan24/Screenshot-with-Gradient-Background)
 
 </div>
 
