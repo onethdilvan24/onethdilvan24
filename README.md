@@ -90,37 +90,11 @@ const oneth = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OnethDikshimbura&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onethdilvan24&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OnethDikshimbura&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OnethDikshimbura&repo=your-awesome-project&theme=tokyonight)](https://github.com/onethdilvan24/people-hub-pro)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OnethDikshimbura&repo=another-cool-project&theme=tokyonight)](https://github.com/onethdilvan24/Screenshot-with-Gradient-Background)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  
-![GitHub Snake Dark](https://raw.githubusercontent.com/OnethDikshimbura/OnethDikshimbura/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
@@ -157,7 +131,7 @@ const oneth = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpv/?username=OnethDikshimbura&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpv/?username=onethdilvan24&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   
   **Thanks for visiting! ⭐️ Star some repos if you find them interesting!**
 </div>
@@ -165,5 +139,5 @@ const oneth = {
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/OnethDikshimbura">OnethDikshimbura</a></i>
+  <i>⭐️ From <a href="https://github.com/onethdilvan24">OnethDikshimbura</a></i>
 </div>
